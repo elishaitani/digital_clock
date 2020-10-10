@@ -1,5 +1,9 @@
-# digital_clock
+# DIGITAL_CLOCK
+Using HTML5, CSS, JS
+
+# OUTPUT(SCREENSHOTS)
+
+![Screenshot (308)](https://user-images.githubusercontent.com/59103865/95651352-8cd03a80-0b09-11eb-92d6-4e216670e76a.png)
 
 
-![Screenshot (304)](https://user-images.githubusercontent.com/59103865/95651052-2518f000-0b07-11eb-9096-1d5df2bfe78b.png)
-
+![Screenshot (304)](https://user-images.githubusercontent.com/59103865/95651368-a2ddfb00-0b09-11eb-8252-a6af297ecf4f.png)
